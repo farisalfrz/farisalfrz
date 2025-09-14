@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/farisalfarizi__" target="blank"><img src="https://img.shields.io/twitter/follow/farisalfarizi__?logo=twitter&style=for-the-badge" alt="farisalfarizi__" /></a> </p>
 
-- 🔭 I’m currently working on [Ril or Fek Project (Hoax Detection)](https://github.com/farisalfrz/ril-or-fek-project)
+- 🔭 I’m currently working on [Subsavvy (Subscription Tracker and AI Management](https://github.com/farisalfrz/subscription-tracker-capstone)
 
 - 🌱 I’m currently learning **Data science with Python (Machine Learning, Deep Learning, etc) and full-stack web developing with Laravel, React, and Node.js.**
 
